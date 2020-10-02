@@ -10,4 +10,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I have 0.25 degrees of myopia, very little!
 - 👾 I like to play RPG, Puzzle and FPS
-- 🎨 My favorite colors are red and blurple
+- 🎨 My favorite colors are red, blurple and magent
