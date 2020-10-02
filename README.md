@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😇 I'm Brasilian
-- 😘 I'm working with HTML5, CSS3, JS, Python, Discord.js
+- 😘 I work with HTML5, CSS3, JS and Python
 - 🔭 I’m currently working on house
 - 🌱 I’m currently learning TypeScript
 - 🤔 I’m looking for help with DOM
