@@ -8,6 +8,6 @@
 - 💬 Ask me about JavaScript
 - 📫 How to reach me: Have self confidence to reach anyone
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I have 0.25 degrees of myopia, very little!
+- ⚡ Fun fact: I learn JS in one week!
 - 👾 I like to play RPG, Puzzle and FPS
 - 🎨 My favorite colors are red, blurple and magent
