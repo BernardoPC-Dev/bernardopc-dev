@@ -11,3 +11,4 @@
 - ⚡ Fun fact: I learn JS in one week!
 - 👾 I like to play RPG, Puzzle and FPS
 - 🎨 My favorite colors are red, blurple and magent
+- 💵 If you want to donate to me or hire me, talk to me on Instagram: @ti_coder_br
