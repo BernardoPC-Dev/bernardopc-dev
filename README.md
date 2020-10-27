@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 😇 I am Brazilian
-- 😘 I work with HTML5, CSS3, JS and Python
+- 😘 I usually make websites
+- 💻 I program with JS, Python and PHP
 - 🌱 I’m currently learning Java
 - 💬 Ask me about JavaScript
 - 😄 Pronouns: He/His
