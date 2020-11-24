@@ -1,6 +1,8 @@
 ### Olá Pessoal! 👋
 
-💟 Minha experiência: **HTML, CSS, JavaScript, PHP, Python**
+💟 **HTML, CSS, JavaScript, PHP, Python**
+
+> Webmaster
 
 - Idioma Nativo: Português🇧🇷
 - Estudando: Inglês🇬🇧 e Francês🇫🇷
