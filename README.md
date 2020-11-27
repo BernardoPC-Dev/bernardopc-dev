@@ -2,7 +2,7 @@
 
 💟 **HTML, CSS, JavaScript, PHP, Python**
 
-> Webmaster
+> Webmaster e Game Developer Iniciante
 
 - Idioma Nativo: Português🇧🇷
 - Estudando: Inglês🇬🇧 e Francês🇫🇷
