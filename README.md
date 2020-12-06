@@ -5,4 +5,5 @@
 > Webmaster e Game Developer Iniciante
 
 - Idioma Nativo: Português🇧🇷
-- Estudando: Inglês🇬🇧 e Francês🇫🇷
+- Estudando: Francês🇫🇷
+- Pretendo Aprender: Árabe🇸🇦, Inglês🇬🇧 e Norueguês🇳🇴
