@@ -2,8 +2,7 @@
 
 💟 **HTML, CSS, JavaScript, PHP, Python**
 
-> Webmaster e Game Developer Iniciante
+> Webdesginer
 
 - Idioma Nativo: Português🇧🇷
-- Estudando: Francês🇫🇷
-- Pretendo Aprender: Árabe🇸🇦, Inglês🇬🇧 e Norueguês🇳🇴
+- Estudando: Francês🇫🇷, Italiano🇮🇹 e Esperanto❇.
