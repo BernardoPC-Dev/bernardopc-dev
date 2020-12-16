@@ -5,4 +5,6 @@
 > Webdesginer
 
 - Idioma Nativo: Português🇧🇷
-- Estudando: Francês🇫🇷, Italiano🇮🇹 e Esperanto❇.
+- Estudando: Francês🇫🇷 e Esperanto❇.
+
+Meu Site Pessoal: https://jhww3u.mimo.run/index.html
