@@ -6,5 +6,5 @@
 
 - Idioma Nativo: Português🇧🇷
 - Estudando: Francês🇫🇷
-- Pretendo Aprender: Inglês🇬🇧, Espanhol🇪🇸, Alfabeto Grego🇬🇷 e Alfabeto Sirílico🇷🇺
+- Pretendo Aprender: Inglês🇬🇧, Espanhol🇪🇸
 ### Meu Site Pessoal: https://jhww3u.mimo.run/index.html
