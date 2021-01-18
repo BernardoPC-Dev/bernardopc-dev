@@ -1,6 +1,6 @@
 ## Olá Pessoal! 👋
 
-💟 **HTML, CSS, JavaScript, PHP, Python, C**
+💟 **HTML, CSS, JavaScript, Python, C**
 
 > Webdesginer
 
