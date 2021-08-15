@@ -9,4 +9,4 @@
 - 🕴️
 
 Atualmente, o meu github está <b>desatualizado</b>, pois foco em projetos closed-source e de porte maior.
-### Meu Site Pessoal: https://jhww3u.mimo.run/index.html
+### Meu Site Pessoal: https://zu77q1.mimo.run/index.html
