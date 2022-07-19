@@ -1,12 +1,5 @@
 ## Olá Pessoal! 👋
 
-💟 **HTML, CSS, JavaScript, Python, C++ e C#**
+💟 **Webdesginer júnior**
 
-> Webdesginer
-
-- 🇧🇷 C2
-- 🇫🇷 A2
-- 🕴️
-
-Atualmente, o meu github está <b>desatualizado</b>, pois foco em projetos closed-source e de porte maior.
-### Meu Site Pessoal: https://zu77q1.mimo.run/index.html
+Olá, me chamo Bernardo Botto, sou cristão e estou há 2 anos nesse mundo da programação, parei por vários meses e agora estou voltando, aprimorando meu HTML/CSS/JavaScript e aprendendo TypeScript e NestJS
